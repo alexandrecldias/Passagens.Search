@@ -1,0 +1,6 @@
+@Passagens.Search_HostAddress = http://localhost:5012
+
+GET {{Passagens.Search_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

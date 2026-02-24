@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Passagens.Search.Application\Passagens.Search.Application.csproj" />
+    <ProjectReference Include="..\Passagens.Search.Domain\Passagens.Search.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Messaging\" />
+    <Folder Include="Cache\" />
+    <Folder Include="DependencyInjection\" />
+    <Folder Include="Providers\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Persistence\" />
+  </ItemGroup>
+
+</Project>
