@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GITHUB\\Passagens.Search\\Passagens.Search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|..\\Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|c:\\github\\passagens.search\\passagens.search.infrastructure\\persistence\\context\\searchdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|..\\Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|c:\\github\\passagens.search\\passagens.search.infrastructure\\persistence\\entities\\vooentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|..\\Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|c:\\github\\passagens.search\\passagens.search.infrastructure\\persistence\\entities\\pesquisasnapshotentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|..\\Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|c:\\github\\passagens.search\\passagens.search.infrastructure\\persistence\\entities\\pesquisaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchDbContext.cs",
+              "DocumentMoniker": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Context\\SearchDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Passagens.Search.Infrastructure\\Persistence\\Context\\SearchDbContext.cs",
+              "ToolTip": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Context\\SearchDbContext.cs",
+              "RelativeToolTip": "..\\Passagens.Search.Infrastructure\\Persistence\\Context\\SearchDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T22:26:22.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VooEntity.cs",
+              "DocumentMoniker": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Entities\\VooEntity.cs",
+              "RelativeDocumentMoniker": "..\\Passagens.Search.Infrastructure\\Persistence\\Entities\\VooEntity.cs",
+              "ToolTip": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Entities\\VooEntity.cs",
+              "RelativeToolTip": "..\\Passagens.Search.Infrastructure\\Persistence\\Entities\\VooEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T22:25:42.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PesquisaSnapshotEntity.cs",
+              "DocumentMoniker": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Entities\\PesquisaSnapshotEntity.cs",
+              "RelativeDocumentMoniker": "..\\Passagens.Search.Infrastructure\\Persistence\\Entities\\PesquisaSnapshotEntity.cs",
+              "ToolTip": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Entities\\PesquisaSnapshotEntity.cs",
+              "RelativeToolTip": "..\\Passagens.Search.Infrastructure\\Persistence\\Entities\\PesquisaSnapshotEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T22:25:12.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PesquisaEntity.cs",
+              "DocumentMoniker": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Entities\\PesquisaEntity.cs",
+              "RelativeDocumentMoniker": "..\\Passagens.Search.Infrastructure\\Persistence\\Entities\\PesquisaEntity.cs",
+              "ToolTip": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Entities\\PesquisaEntity.cs",
+              "RelativeToolTip": "..\\Passagens.Search.Infrastructure\\Persistence\\Entities\\PesquisaEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T22:23:48.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

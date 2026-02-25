@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GITHUB\\Passagens.Search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4584DDCF-7E64-4F66-B48A-216F6CFF48FD}|Passagens.Search.API\\Passagens.Search.API.csproj|c:\\github\\passagens.search\\passagens.search.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4584DDCF-7E64-4F66-B48A-216F6CFF48FD}|Passagens.Search.API\\Passagens.Search.API.csproj|solutionrelative:passagens.search.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Migrations\\20260225135848_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Passagens.Search.Infrastructure\\Persistence\\Migrations\\20260225135848_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4584DDCF-7E64-4F66-B48A-216F6CFF48FD}|Passagens.Search.API\\Passagens.Search.API.csproj|c:\\github\\passagens.search\\passagens.search.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4584DDCF-7E64-4F66-B48A-216F6CFF48FD}|Passagens.Search.API\\Passagens.Search.API.csproj|solutionrelative:passagens.search.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|c:\\github\\passagens.search\\passagens.search.infrastructure\\persistence\\configurations\\vooentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|solutionrelative:passagens.search.infrastructure\\persistence\\configurations\\vooentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|c:\\github\\passagens.search\\passagens.search.infrastructure\\persistence\\configurations\\pesquisasnapshotentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|solutionrelative:passagens.search.infrastructure\\persistence\\configurations\\pesquisasnapshotentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|c:\\github\\passagens.search\\passagens.search.infrastructure\\persistence\\configurations\\pesquisaentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|solutionrelative:passagens.search.infrastructure\\persistence\\configurations\\pesquisaentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|c:\\github\\passagens.search\\passagens.search.infrastructure\\persistence\\context\\searchdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D0616-A5DA-4AA0-887F-BF7606F4A877}|Passagens.Search.Infrastructure\\Passagens.Search.Infrastructure.csproj|solutionrelative:passagens.search.infrastructure\\persistence\\context\\searchdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Passagens.Search.API\\appsettings.Development.json",
+              "ToolTip": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.API\\appsettings.Development.json",
+              "RelativeToolTip": "Passagens.Search.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T14:05:36.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260225135848_InitialCreate.cs",
+              "DocumentMoniker": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Migrations\\20260225135848_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Passagens.Search.Infrastructure\\Persistence\\Migrations\\20260225135848_InitialCreate.cs",
+              "ToolTip": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Migrations\\20260225135848_InitialCreate.cs",
+              "RelativeToolTip": "Passagens.Search.Infrastructure\\Persistence\\Migrations\\20260225135848_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:58:49.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.API\\Program.cs",
+              "RelativeDocumentMoniker": "Passagens.Search.API\\Program.cs",
+              "ToolTip": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.API\\Program.cs",
+              "RelativeToolTip": "Passagens.Search.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:34:10.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VooEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Configurations\\VooEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Passagens.Search.Infrastructure\\Persistence\\Configurations\\VooEntityConfiguration.cs",
+              "ToolTip": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Configurations\\VooEntityConfiguration.cs",
+              "RelativeToolTip": "Passagens.Search.Infrastructure\\Persistence\\Configurations\\VooEntityConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA2wBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:00:06.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PesquisaSnapshotEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Configurations\\PesquisaSnapshotEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Passagens.Search.Infrastructure\\Persistence\\Configurations\\PesquisaSnapshotEntityConfiguration.cs",
+              "ToolTip": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Configurations\\PesquisaSnapshotEntityConfiguration.cs",
+              "RelativeToolTip": "Passagens.Search.Infrastructure\\Persistence\\Configurations\\PesquisaSnapshotEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:59:43.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PesquisaEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Configurations\\PesquisaEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Passagens.Search.Infrastructure\\Persistence\\Configurations\\PesquisaEntityConfiguration.cs",
+              "ToolTip": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Configurations\\PesquisaEntityConfiguration.cs",
+              "RelativeToolTip": "Passagens.Search.Infrastructure\\Persistence\\Configurations\\PesquisaEntityConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:59:07.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchDbContext.cs",
+              "DocumentMoniker": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Context\\SearchDbContext.cs",
+              "RelativeDocumentMoniker": "Passagens.Search.Infrastructure\\Persistence\\Context\\SearchDbContext.cs",
+              "ToolTip": "C:\\GITHUB\\Passagens.Search\\Passagens.Search.Infrastructure\\Persistence\\Context\\SearchDbContext.cs",
+              "RelativeToolTip": "Passagens.Search.Infrastructure\\Persistence\\Context\\SearchDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:58:38.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
